@@ -5,7 +5,12 @@
 
 <h2 align=center></h2>
 
-### 🌐:Web
+### 🔗 Link
+<div align=center>
+  <a href="https://puppypawperson.tistory.com" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=semanticweb&logoColor=white"></a>
+</div>
+
+### 🌐 Skills
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white">
@@ -14,6 +19,7 @@
   <br>
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+  <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white">
   <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge">
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
   <br>
