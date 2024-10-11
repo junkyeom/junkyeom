@@ -5,13 +5,11 @@
 
 <h2 align=center></h2>
 
-### 🔗 Link
+<!-- ### 🔗 Link
 <div align=center>
   <a href="https://puppypawperson.tistory.com" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=semanticweb&logoColor=white"></a>
   <a href="https://velog.io/@junkyeom0203/posts" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=semanticweb&logoColor=white"></a>
-</div>
-
-<h2 align=center></h2>
+</div> -->
 
 ### 🌐 Skills
 <div align="center">
