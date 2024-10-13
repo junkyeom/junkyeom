@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=junkyeom&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junkyeom&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=junkyeom&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junkyeom&layout=compact&theme=tokyonight" />
 </div>
 
 <h2 align=center></h2>
