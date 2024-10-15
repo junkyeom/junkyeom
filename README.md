@@ -30,7 +30,7 @@
 
 <h2 align=center></h2>
 
-### 🗒️ Repo
+### 🗒️ Project
 
 <div align="center">
   <span>
