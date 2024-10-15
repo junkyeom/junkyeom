@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=junkyeom&show_icons=true&theme=ambient_gradient&icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junkyeom&layout=compact&theme=ambient_gradient&icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=junkyeom&show_icons=true&theme=rose&icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junkyeom&layout=compact&theme=rose&icons=true" />
 </div>
 
 <h2 align=center></h2>
@@ -30,4 +30,4 @@
 
 
 ### 🗒️ Repo
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=junkyeom&repo=rothem-counseling&theme=ambient_gradient"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=junkyeom&repo=rothem-counseling&theme=rose"/>
