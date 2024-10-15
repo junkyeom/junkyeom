@@ -28,10 +28,13 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
 
+<h2 align=center></h2>
 
 ### 🗒️ Repo
 
-<span align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=junkyeom&repo=rothem-counseling&theme=rose"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=junkyeom&repo=goodiary&theme=rose"/>
-</span>
+<div align="center">
+  <span>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=junkyeom&repo=rothem-counseling&theme=rose"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=junkyeom&repo=goodiary&theme=rose"/>
+  </span>
+</div>
