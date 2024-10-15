@@ -30,5 +30,7 @@
 
 
 ### 🗒️ Repo
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=junkyeom&repo=rothem-counseling&theme=rose"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=junkyeom&repo=goodiary&theme=rose"/>
+<span>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=junkyeom&repo=rothem-counseling&theme=rose"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=junkyeom&repo=goodiary&theme=rose"/>
+</span>
