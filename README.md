@@ -28,4 +28,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=junkyeom&repo=github-readme-stats"/>
+
+### 🗒️ Repo
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=junkyeom&repo=rothem-counseling&theme=ambient_gradient"/>
