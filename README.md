@@ -34,7 +34,7 @@
 
 <div align="center">
   <span>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=junkyeom&repo=rothem-counseling&theme=rose"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=junkyeom&repo=goodiary&theme=rose"/>
+    <a href="https://github.com/junkyeom/rothem-counseling"><img src="https://github-readme-stats.vercel.app/api/pin/?username=junkyeom&repo=rothem-counseling&theme=rose"/></a>
+    <a/<img src="https://github-readme-stats.vercel.app/api/pin/?username=junkyeom&repo=goodiary&theme=rose"/></a>
   </span>
 </div>
