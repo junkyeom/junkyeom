@@ -35,6 +35,6 @@
 <div align="center">
   <span>
     <a href="https://github.com/junkyeom/rothem-counseling"><img src="https://github-readme-stats.vercel.app/api/pin/?username=junkyeom&repo=rothem-counseling&theme=rose"/></a>
-    <a/<img src="https://github-readme-stats.vercel.app/api/pin/?username=junkyeom&repo=goodiary&theme=rose"/></a>
+    <a href="https://github.com/junkyeom/Goodiary"><img src="https://github-readme-stats.vercel.app/api/pin/?username=junkyeom&repo=goodiary&theme=rose"/></a>
   </span>
 </div>
