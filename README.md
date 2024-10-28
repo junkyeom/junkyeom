@@ -36,6 +36,6 @@
 <div align="center">
   <span>
     <a href="https://github.com/junkyeom/rothem-counseling"><img src="https://github-readme-stats.vercel.app/api/pin/?username=junkyeom&repo=rothem-counseling&theme=rose"/></a>
-    <a href="https://github.com/junkyeom/Goodiary"><img src="https://github-readme-stats.vercel.app/api/pin/?username=junkyeom&repo=Goodiary&theme=rose"/></a>
+    <a href="https://github.com/junkyeom/Readiping"><img src="https://github-readme-stats.vercel.app/api/pin/?username=junkyeom&repo=Readiping&theme=rose"/></a>
   </span>
 </div>
