@@ -1,8 +1,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=junkyeom&show_icons=true&theme=rose&icons=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junkyeom&layout=compact&theme=rose&icons=true" />
-![Programmers Badge](https://raw.githubusercontent.com/{자기신 깃허브 아이디}/Programmers_Badge_Generator/main/result/result.svg)
 </div>
+
+![Programmers Badge](https://raw.githubusercontent.com/{자기신 깃허브 아이디}/Programmers_Badge_Generator/main/result/result.svg)
 
 <h2 align=center></h2>
 
